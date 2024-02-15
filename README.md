@@ -1,2 +1,2 @@
-# Issue Manager
-Guys!!! A Issue Manager That is created using ReactJS and Java Spring Boot which give you a good understanding in CRUD operation 
+# LMS
+Guys!!! A Learning Management System That is created using ReactJS and NodeJS which give you a good understanding in CRUD operation 
